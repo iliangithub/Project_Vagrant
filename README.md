@@ -2,6 +2,9 @@
 > Este repositorio fue creado por primera vez el 20 de septiembre de 2024.
 >
 > ![Captura de la ultima modificacion del repositorio](IMG/Captura%20de%20pantalla%202026-10-04%20235102.png)
+>
+> Se decidió borrar el anterior repositorio y subirlo en este para censurar datos, IDs, además de que aparecían en el historial de commits.
+> 
 
 # 0.1 Introduction
 This GitHub project is part of the "DevOps Beginners to Advanced" course on Udemy. As part of the project, the following stack is used: Vagrant, Nginx, Tomcat, RabbitMQ, Memcached, and MySQL.
